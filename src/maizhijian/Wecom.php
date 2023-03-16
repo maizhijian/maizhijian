@@ -17,4 +17,9 @@ class Wecom
     {
         echo 'this is Wecom->test2'.'<br>';
     }
+
+    public function testGitPush ()
+    {
+        echo 'this is Wecom->testGitPush'. '<br>';
+    }
 }
