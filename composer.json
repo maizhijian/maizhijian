@@ -1,0 +1,20 @@
+{
+    "name": "maizhijian/wecom",
+    "description": "基于企业微信发送信息",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maizhijian\\": "src/maizhijian"
+        }
+    },
+    "authors": [
+        {
+            "name": "maizhijian",
+            "email": "380354618@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
