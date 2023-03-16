@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Maizhijian\\": "src/maizhijian"
+            "maizhijian\\": "src/maizhijian"
         }
     },
     "authors": [

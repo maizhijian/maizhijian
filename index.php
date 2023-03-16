@@ -2,11 +2,11 @@
 
 require "vendor/autoload.php";
 
-$m = new Maizhijian\Wecom();
+$m = new \maizhijian\Wecom();
 
 $m->test();
 $m->test2();
 $m->testGitPush();
 
-$m2 = new \Maizhijian\Test();
-$m2->test();
+//$m2 = new \Maizhijian\Test();
+//$m2->test();
